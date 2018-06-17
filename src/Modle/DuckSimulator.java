@@ -6,6 +6,7 @@ public class DuckSimulator {
 		      mallard.performQuack();
 		      mallard.setQuackBehavior(new Squeak());
 		      mallard.performQuack();
+		      
 		   }
 
 
